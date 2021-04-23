@@ -1,5 +1,5 @@
-# BIG DATA SEM 5 assignments
-These assignments were done by **[Revanth](https://github.com/RevanthBabuPN)**, **[Navneeth](https://github.com/NavneethSH)**, **[Siddharth](https://github.com/Siddharth-K-Rao)** and **[me](https://github.com/sreyansb)**.
+# BIG DATA
+These assignments were done by **[Revanth](https://github.com/RevanthBabuPN)**, **[Navneeth](https://github.com/NavneethSH)**, **[Siddharth](https://github.com/Siddharth-K-Rao)** and **[Sreyans](https://github.com/sreyansb)**.
 
 ## Assignment1
 This was for searching a word in plane-carriers.ndjson file.
